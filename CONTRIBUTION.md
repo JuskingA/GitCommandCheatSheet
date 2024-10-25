@@ -8,7 +8,7 @@ Contributions are welcome! If you would like to contribute to this repository, p
 
 2. **Clone Your Fork**: Use the following command to clone your fork to your local machine:
    ```
-   git clone https://github.com/your-username/git-command-cheat-sheet.git
+   git clone https://github.com/JuskingA/GitCommandCheatSheet
    ```
 
 3. **Create a Branch**: Before making changes, create a new branch for your feature or bug fix:
